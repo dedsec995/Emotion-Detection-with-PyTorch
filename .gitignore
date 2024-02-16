@@ -7,7 +7,7 @@ FER-13/
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.pth
 # C extensions
 *.so
 
