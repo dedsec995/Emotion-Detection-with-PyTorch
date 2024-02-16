@@ -1,5 +1,6 @@
 #Exclude Dataset
 FER-13/
+2.1_data_manipulation.ipynb
 
 #official python gitignore
 # Byte-compiled / optimized / DLL files
