@@ -1,6 +1,8 @@
 #Exclude Dataset
 FER-13/
+data/
 2.1_data_manipulation.ipynb
+checkpoints_mobilenetv2_adam
 
 #official python gitignore
 # Byte-compiled / optimized / DLL files
@@ -8,6 +10,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.pth
+*.pt
+*.mp4
 # C extensions
 *.so
 
