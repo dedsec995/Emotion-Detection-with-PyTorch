@@ -12,6 +12,7 @@ __pycache__/
 *.pth
 *.pt
 *.mp4
+*.ptl
 # C extensions
 *.so
 
